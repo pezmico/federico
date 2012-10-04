@@ -1,0 +1,30 @@
+/* CSS estilo adicional... formulario contaco */
+#formulario {
+	padding: 50px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #CCCCCC;
+	font-weight: bold;
+}
+#formulario #inputs {
+	text-align: left;
+	width: 500px;
+}
+
+.formulario-input {
+	margin: 10px;
+	background-color: #CCCCCC;
+	border: thin solid #666666;
+}
+.boton {
+	background-color: #CCCCCC;
+	font-weight: bold;
+	color: #333333;
+	text-align: center;
+	border: thin solid #333333;
+	float: none;
+	width: 100px;
+	margin-left: 10px;
+}

@@ -1,0 +1,45 @@
+<tiltviewergallery>
+	<photos>
+		<photo imageurl="imgs/81.jpg" linkurl="http://www.google.com">
+			<title></title>
+			<description></description>
+		</photo>
+		<photo imageurl="imgs/just me.jpg" linkurl="http://www.google.com">
+			<title></title>
+			<description></description>
+		</photo>
+		<photo imageurl="imgs/retrato 1.jpg" >
+			<title></title>
+		<description></description>			
+		</photo>
+		<photo imageurl="imgs/retrato 2.jpg" linkurl="http://www.google.com" showFlipButton="false">
+			<title></title>
+			<description></description>			
+		</photo>
+		<photo imageurl="imgs/retrato 3.jpg" linkurl="http://www.google.com">
+			<title></title>			
+		</photo>
+		<photo imageurl="imgs/retrato purpura.jpg" linkurl="http://www.google.com">
+			<title></title>			
+		</photo>
+		<photo imageurl="imgs/retrato.jpg" linkurl="http://www.google.com">
+			<title></title>			
+		</photo>
+		<photo imageurl="imgs/retrato2.jpg" linkurl="http://www.google.com">
+			<title></title>			
+		</photo>
+		<photo imageurl="imgs/rojo.jpg" linkurl="http://www.google.com">
+			<title></title>			
+		</photo>
+		<photo imageurl="imgs/rostro3.jpg" linkurl="http://www.google.com">
+			<title></title>			
+		</photo>
+		<photo imageurl="imgs/Sin titulo 3.1.jpg" linkurl="http://www.google.com">
+			<title></title>			
+		</photo>
+		<photo imageurl="imgs/Sin titulo2.12.jpg" linkurl="http://www.google.com">
+			<title></title>			
+		</photo>
+										
+	</photos>
+</tiltviewergallery>

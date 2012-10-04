@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="1" imagePadding="5" displayTime="6" enableRightClickOpen="true">
+<image>
+	<url>images/arco.jpg</url>
+   <caption><![CDATA[</font><br>Arequipa-Plaza de Armas<u>]]></caption>
+   <width>429</width>
+   <height>600</height>
+</image>
+<image>
+	<url>images/salida-de-arequipa.jpg</url>
+   <caption>Saliendo de Arequipa</caption>
+   <width>429</width>
+   <height>600</height>
+</image>
+<image>
+	<url>images/la-sublimacion-del-espiritu.jpg</url>
+   <caption><![CDATA[La sublimacion del espiritu]]></caption>
+   <width>429</width>
+   <height>600</height>
+</image>
+<image>
+	<url>images/arbol espinoso peq.jpg</url>
+   <caption>Arbol Espinoso- Tolima</caption>
+   <width>299</width>
+   <height>448</height>
+</image>
+<image>
+	<url>images/hojas flotantes peq.jpg</url>
+   <caption>Hojas Flotantes</caption>
+   <width>299</width>
+   <height>448</height>
+</image>
+
+<image>
+	<url>images/guadua peq.jpg</url>
+   <caption>Guadua</caption>
+   <width>299</width>
+   <height>448</height>
+</image>
+
+<image>
+   <url>images/bolivia1-.jpg</url>
+   <caption>Bolivia</caption>
+   <width>600</width>
+   <height>429</height>
+</image>
+<image>
+   <url>images/bolivia2.jpg</url>
+   <caption>Bolivia</caption>
+   <width>600</width>
+   <height>429</height>
+</image>
+<image>
+   <url>images/mesa-de-ofrendas.jpg</url>
+   <caption><![CDATA[Mesa de ofrendas]]></caption>
+   <width>429</width>
+   <height>600</height>
+</image>
+
+<image>
+	<url>images/cusco.jpg</url>
+	<caption><![CDATA[Cusco]]></caption>
+	<width>429</width>
+	<height>600</height>
+</image>
+<image>
+	<url>images/mancora.jpg</url>
+	<caption><![CDATA[Mancora]]></caption>
+	<width>900</width>
+	<height>340</height>
+</image>
+<image>
+	<url>images/puerto-madero.jpg</url>
+	<caption><![CDATA[Puerto Madero]]></caption>
+	<width>429</width>
+	<height>600</height>
+</image>
+<image>
+	<url>images/rio-de-la-plata.jpg</url>
+	<caption><![CDATA[Rio de la plata]]></caption>
+	<width>429</width>
+	<height>600</height>
+</image>
+<image>
+	<url>images/palermo.jpg</url>
+	<caption><![CDATA[Palermo]]></caption>
+	<width>709</width>
+	<height>992</height>
+</image>
+<image>
+	<url>images/palermo 2.jpg</url>
+	<caption><![CDATA[Palermo]]></caption>
+	<width>709</width>
+	<height>992</height>
+</image>
+<image>
+	<url>images/recoleta.jpg</url>
+	<caption><![CDATA[Recoleta]]></caption>
+	<width>709</width>
+	<height>992</height>
+</image>
+
+
+<image>
+	<url>images/puente-de-la-mujer.jpg</url>
+	<caption><![CDATA[Puente de la mujer]]></caption>
+	<width>429</width>
+	<height>600</height>
+</image>
+<image>
+	<url>images/espejo.jpg</url>
+	<caption><![CDATA[Bogota en el espejo]]></caption>
+	<width>600</width>
+	<height>453</height>
+</image>
+<image>
+	<url>images/bogota5.jpg</url>
+	<caption><![CDATA[Desde mi ventana]]></caption>
+	<width>900</width>
+	<height>289</height>
+</image>
+<image>
+	<url>images/monserrate.jpg</url>
+	<caption><![CDATA[Monserrate]]></caption>
+	<width>567</width>
+	<height>822</height>
+</image>
+
+<image>
+	<url>images/bote.jpg</url>
+	<caption><![CDATA[Montañita]]></caption>
+	<width>567</width>
+	<height>850</height>
+</image>
+<image>
+	<url>images/playa.jpg</url>
+	<caption><![CDATA[Montañita]]></caption>
+	<width>567</width>
+	<height>850</height>
+</image>
+
+
+</gallery>

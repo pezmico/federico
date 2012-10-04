@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="1" imagePadding="5" displayTime="6" enableRightClickOpen="true">
+<image>
+	<url>images/historias de cocina.jpg</url> 
+   <caption><![CDATA[<font size="50"></font><br><u>]]></caption>
+   <width>567</width>
+   <height>822</height>
+</image>
+<image>
+	<url>images/portada-burning food.jpg</url>
+   <caption><![CDATA[]]></caption>
+   <width>619</width>
+   <height>882</height>
+</image>
+<image>
+	<url>images/todavia faltan nueve dedos.jpg</url>
+   <caption><![CDATA[]]></caption>
+   <width>567</width>
+   <height>822</height>
+</image>
+<image>
+	<url>images/9 fingers left.jpg</url>
+   <caption></caption>
+   <width>619</width>
+   <height>875</height>
+</image>
+<image>
+   <url>images/fuego.jpg</url>
+   <caption></caption>
+   <width>567</width>
+   <height>822</height>
+</image>
+<image>
+   <url>images/fire!.jpg</url>
+   <caption></caption>
+   <width>619</width>
+   <height>875</height>
+</image>
+<image>
+   <url>images/dedos.jpg</url>
+   <caption><![CDATA[]]></caption>
+   <width>567</width>
+   <height>822</height>
+</image>
+<image>
+	<url>images/frying fingers order.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>619</width>
+	<height>875</height>
+</image>
+<image>
+	<url>images/listo.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>567</width>
+	<height>822</height>
+</image>
+<image>
+	<url>images/this one is ready.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>619</width>
+	<height>875</height>
+</image>
+<image>
+	<url>images/vomitando.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>567</width>
+	<height>822</height>
+</image>
+<image>
+	<url>images/throwing up my own blood.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>619</width>
+	<height>875</height>
+</image>
+<image>
+	<url>images/asi.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>567</width>
+	<height>822</height>
+</image>
+<image>
+	<url>images/ready.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>619</width>
+	<height>875</height>
+</image>
+
+<image>
+	<url>images/esto.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>567</width>
+	<height>822</height>
+</image>
+<image>
+	<url>images/let me feel alive.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>619</width>
+	<height>875</height>
+</image>
+
+<image>
+	<url>images/demasados.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>567</width>
+	<height>822</height>
+</image>
+<image>
+	<url>images/demasiados.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>619</width>
+	<height>875</height>
+</image>
+
+<image>
+	<url>images/sin .jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>567</width>
+	<height>822</height>
+</image>
+<image>
+	<url>images/with no oportunities.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>619</width>
+	<height>875</height>
+</image>
+
+<image>
+	<url>images/otro.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>567</width>
+	<height>822</height>
+</image>
+<image>
+	<url>images/another day of work.jpg</url>
+	<caption><![CDATA[]]></caption>
+	<width>619</width>
+	<height>875</height>
+</image>
+
+
+</gallery>

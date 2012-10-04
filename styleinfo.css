@@ -1,0 +1,41 @@
+#titulo{
+}
+h1 a{	
+	/*text-indent:-9000px;*/
+	overflow:hidden;
+	/*background-color: black;*/
+	background-image:url(/nombrefederico.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	width:421px;
+	height:36px;
+	display:block;
+	float:right;	
+}
+ 	h1{ 
+	text-indent:-9000px;
+	overflow:hidden;
+	color:red;
+	/*text-align:right;*/
+	font-family:"Courier New";
+}
+
+#contenido{
+	font-color:white;
+	/*font-family:"Courier New";*/
+	width:450px;
+	margin: 0px 0px 0px 20px;
+	float:left;
+	text-align:left;
+	width:500px;
+	/*height:100%;
+	width:100%;*/
+}
+
+
+body{
+	/*background-image:url(/fondomenu.jpg);*/
+	background-color: #000000;
+	color:white;
+	
+}

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="1" imagePadding="5" displayTime="6" enableRightClickOpen="true">
+<image>
+	<url>images/acercandome.jpg</url>
+   <caption><![CDATA[</font><br>Tu mas profunda piel<u>]]></caption>
+   <width>375</width>
+   <height>510</height>
+</image>
+<image>
+	<url>images/bisdeseos.jpg</url>
+   <caption>Deseos</caption>
+   <width>325</width>
+   <height>502</height>
+</image>
+<image>
+	<url>images/cusilencio.jpg</url>
+   <caption><![CDATA[Melancolia]]></caption>
+   <width>370</width>
+   <height>500</height>
+</image>
+<image>
+	<url>images/disconciencia.jpg</url>
+   <caption>Temores</caption>
+   <width>312</width>
+   <height>482</height>
+</image>
+<image>
+   <url>images/espalda.jpg</url>
+   <caption>Dolor</caption>
+   <width>334</width>
+   <height>478</height>
+</image>
+<image>
+   <url>images/gfuria.jpg</url>
+   <caption>Furia</caption>
+   <width>355</width>
+   <height>454</height>
+</image>
+<image>
+   <url>images/hviolencia.jpg</url>
+   <caption><![CDATA[Violencia Sexual]]></caption>
+   <width>425</width>
+   <height>531</height>
+</image>
+<image>
+	<url>images/isupervivencia.jpg</url>
+	<caption><![CDATA[Supervivencia]]></caption>
+	<width>358</width>
+	<height>591</height>
+</image>
+<image>
+	<url>images/jresignacion.jpg</url>
+	<caption><![CDATA[Resignación]]></caption>
+	<width>800</width>
+	<height>607</height>
+</image>
+<image>
+	<url>images/kmindless.jpg</url>
+	<caption><![CDATA[Pensamientos Perdidos]]></caption>
+	<width>434</width>
+	<height>454</height>
+</image>
+<image>
+	<url>images/nbody.jpg</url>
+	<caption><![CDATA[Rupturas]]></caption>
+	<width>405</width>
+	<height>531</height>
+</image>
+<image>
+	<url>images/ointimidad.jpg</url>
+	<caption><![CDATA[Intimidad]]></caption>
+	<width>358</width>
+	<height>457</height>
+</image>
+<image>
+	<url>images/pextension.jpg</url>
+	<caption><![CDATA[Extension]]></caption>
+	<width>375</width>
+	<height>500</height>
+</image>
+<image>
+	<url>images/qextenssio.jpg</url>
+	<caption><![CDATA[Distancias]]></caption>
+	<width>345</width>
+	<height>510</height>
+</image>
+<image>
+	<url>images/rpies.jpg</url>
+	<caption><![CDATA[Huellas]]></caption>
+	<width>359</width>
+	<height>500</height>
+</image>
+<image>
+	<url>images/pieles.jpg</url>
+	<caption><![CDATA[Tu mas profunda piel]]></caption>
+	<width>312</width>
+	<height>474</height>
+</image>
+
+</gallery>
